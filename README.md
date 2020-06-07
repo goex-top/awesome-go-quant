@@ -17,12 +17,17 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 
 ### Indicators
 - [go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib
+- [talib-cdl-go](https://github.com/iwat/talib-cdl-go) - A pure Go port of ta-lib only in candle recognition module (CDL).
 
 ### Trading & Backtesting
 - [goex](https://github.com/nntaoli-project/goex) - Exchange Rest And WebSocket API For Golang Wrapper support okcoin,okex,huobi,hbdm,bitmex,coinex,poloniex,bitfinex,bitstamp,binance,kraken,bithumb,zb,hitbtc,fcoin, coinbene
 - [goex_backtest](https://github.com/nntaoli-project/goex_backtest) - goex orderbook backtest
 - [crex](https://github.com/coinrust/crex) - A Golang cryptocurrency trading API & Library. Support Binance, BitMEX, Deribit, Bybit, Huobi DM, OKEX Futures and more.
 - [gobacktest](https://github.com/dirkolbrich/gobacktest) - event-driven backtesting framework written in golang
+- [gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
+
+### Market data
+- [finance-go](https://github.com/piquette/finance-go) - Financial markets data library implemented in go
 
 ### Risk Analysis
 
