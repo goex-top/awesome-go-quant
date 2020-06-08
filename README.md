@@ -11,7 +11,7 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 ### Numerical Libraries & Data Structures
 - [gonum](https://www.gonum.org/) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more.
 - [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrame for statistics and data manipulation/exploration
-- [dataframe-go](https://github.com/go-gota/gota) - Gota: DataFrames and data wrangling in Go (Golang)
+- [gota](https://github.com/go-gota/gota) - Gota: DataFrames and data wrangling in Go (Golang)
 - [GoDataframe](https://github.com/qingtiandalaoye/GoDataframe) - just like pandas in python, I want to give a quick impl in go lang for my backtest strategy system
 - [stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
 
@@ -38,3 +38,9 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 ### Data Sources
 
 ### Excel Integration
+
+### Charts/Plot
+- [plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data
+- [go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in native golang.
+- [go-echarts](https://github.com/go-echarts/go-echarts) - The adorable charts library for Golang
+
