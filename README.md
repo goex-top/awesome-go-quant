@@ -1,8 +1,11 @@
-# go-awesome-quant
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align=center><img src="https://raw.githubusercontent.com/goex-top/go-awesome-quant/master/gopher.png" height="130" width="139"/></div>
+<div align=center><img src="https://awesome.re/badge.svg" /></div>
+
+# Go Awesome Quant
 
 A curated list of insanely awesome libraries for golang, packages and resources for Quants (Quantitative Finance)
 > Respect [awesome-quant project](https://github.com/wilsonfreitas/awesome-quant)
+> Thanks [gopherize](https://gopherize.me/)
 
 **Only for Golang**
 
