@@ -47,3 +47,8 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 - [go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in native golang.
 - [go-echarts](https://github.com/go-echarts/go-echarts) - The adorable charts library for Golang
 
+### Algorithm
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+
+
+
