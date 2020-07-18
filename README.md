@@ -16,7 +16,15 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 - [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrame for statistics and data manipulation/exploration
 - [gota](https://github.com/go-gota/gota) - Gota: DataFrames and data wrangling in Go (Golang)
 - [GoDataframe](https://github.com/qingtiandalaoye/GoDataframe) - just like pandas in python, I want to give a quick impl in go lang for my backtest strategy system
+
+### Statistics
+- [gonum/stats](https://github.com/gonum/gonum/tree/master/stat) - Package stat is a statistics package for the Go language.
+- [stats](https://github.com/segmentio/stats) - Go package for abstracting stats collection
 - [stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
+- [gostats](https://github.com/lyft/gostats) - Go client for Stats
+
+### Limitation
+- [rate](https://github.com/goex-top/rate) - A timed rate limiter for Go
 
 ### Indicators
 - [go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib
