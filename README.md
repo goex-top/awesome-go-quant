@@ -59,5 +59,8 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 ### Algorithm
 - [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 
+### Learn
+- [go-training](https://github.com/go-training/training) - Learning Golang one day
+
 
 
