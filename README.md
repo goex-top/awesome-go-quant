@@ -30,6 +30,9 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 - [go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib
 - [talib-cdl-go](https://github.com/iwat/talib-cdl-go) - A pure Go port of ta-lib only in candle recognition module (CDL).
 
+### Machine Learning
+- [sklearn](https://github.com/pa-m/sklearn) - bits of sklearn ported to Go #golang
+
 ### Trading & Backtesting
 - [goex](https://github.com/nntaoli-project/goex) - Exchange Rest And WebSocket API For Golang Wrapper support okcoin,okex,huobi,hbdm,bitmex,coinex,poloniex,bitfinex,bitstamp,binance,kraken,bithumb,zb,hitbtc,fcoin, coinbene
 - [goex_backtest](https://github.com/nntaoli-project/goex_backtest) - goex orderbook backtest
