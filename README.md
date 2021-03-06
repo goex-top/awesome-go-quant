@@ -46,6 +46,9 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 
 ### Machine Learning
 - [sklearn](https://github.com/pa-m/sklearn) - bits of sklearn ported to Go
+- [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
+
+
 
 ### Risk Analysis
 
