@@ -68,5 +68,9 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 ### Learn
 - [go-training](https://github.com/go-training/training) - Learning Golang one day
 
+### Tool
+- [gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
+
+
 
 
