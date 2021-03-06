@@ -44,6 +44,9 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 - [finance-go](https://github.com/piquette/finance-go) - Financial markets data library implemented in go
 - [go-quote](https://github.com/markcheno/go-quote) - Yahoo finance/Google finance/Coinbase/Bittrex/Binance/Tiingo historical quote downloader library and cli written in golang
 
+### Machine Learning
+- [sklearn](https://github.com/pa-m/sklearn) - bits of sklearn ported to Go
+
 ### Risk Analysis
 
 ### Factor Analysis
