@@ -70,6 +70,11 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 ### Tool
 - [gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 
+### Scraper
+- [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+- [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
+
+
 
 
 
