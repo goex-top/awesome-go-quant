@@ -27,6 +27,9 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 ### Limitation
 - [rate](https://github.com/goex-top/rate) - A timed rate limiter for Go
 
+### Orderbook
+- [go-hft-orderbook](https://github.com/alexey-ernest/go-hft-orderbook) - Golang implementation of a Limit Order Book (LOB) for high frequency trading in crypto exchanges
+
 ### Indicators
 - [go-talib](https://github.com/markcheno/go-talib) - A pure Go port of TA-Lib
 - [talib-cdl-go](https://github.com/iwat/talib-cdl-go) - A pure Go port of ta-lib only in candle recognition module (CDL).
