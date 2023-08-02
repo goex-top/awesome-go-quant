@@ -79,6 +79,24 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 - [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 
+### Sentiment Intensity Analyzer
+- [centiment](https://github.com/elithrar/centiment) - 🤖 Crypto-currency sentiment analysis via Google Natural Language & Twitter.
+- [tsignal](https://github.com/mchmarny/tsignal) - Analyzing social media sentiment and its impact on stock market
+- [Twitter sentiment](https://github.com/jbrukh/sentiment) - Classifier of Twitter sentiment
+- [sentiment](https://github.com/cdipaolo/sentiment) - Simple Sentiment Analysis in Golang
+- [goml](https://github.com/cdipaolo/goml) - On-line Machine Learning in Go (and so much more)
+- [sentiment-server](https://github.com/cdipaolo/sentiment-server) - Simple, Modular Microservice For Language Sentiment
+- [sentiment](https://github.com/SocialHarvest/sentiment) - A simple in memory sentiment analysis package.
+- [homo](https://github.com/vufa/homo) - An open source natural interaction system based on offline wake-up, natural language understanding and sentiment analysis
+- [govader](https://github.com/jonreiter/govader) - vader sentiment analysis in go
+- [sentiment](https://github.com/lixy529/sentiment) - 情感分析, 这个公司要倒闭
+- [tfeel](https://github.com/mchmarny/tfeel) - Twitter sentiment analysis
+
+
+
+
+
+
 
 
 
