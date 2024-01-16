@@ -92,6 +92,9 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 - [sentiment](https://github.com/lixy529/sentiment) - 情感分析, 这个公司要倒闭
 - [tfeel](https://github.com/mchmarny/tfeel) - Twitter sentiment analysis
 
+### Container
+- [stl4go](https://github.com/chen3feng/stl4go) - Generic Container and Algorithm Library for Go
+
 
 
 
