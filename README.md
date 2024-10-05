@@ -91,6 +91,9 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 - [govader](https://github.com/jonreiter/govader) - vader sentiment analysis in go
 - [sentiment](https://github.com/lixy529/sentiment) - 情感分析, 这个公司要倒闭
 - [tfeel](https://github.com/mchmarny/tfeel) - Twitter sentiment analysis
+- [GoQuant](https://github.com/Go-Quant/goquant)GoQuant is a powerful Go framework designed for financial data analysis and visualizations, with no boundaries!
+
+
 
 ### Container
 - [stl4go](https://github.com/chen3feng/stl4go) - Generic Container and Algorithm Library for Go
