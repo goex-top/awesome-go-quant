@@ -78,6 +78,10 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 ### Scraper
 - [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
+- [req](github.com/imroc/req/v3) - Simple Go HTTP client with Black Magic
+- [chromedp](github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+- [rod](github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
+
 
 ### Sentiment Intensity Analyzer
 - [centiment](https://github.com/elithrar/centiment) - 🤖 Crypto-currency sentiment analysis via Google Natural Language & Twitter.
