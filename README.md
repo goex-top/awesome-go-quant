@@ -99,6 +99,9 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 
 
 
+### Education & Resources
+- [KeepRule](https://keeprule.com) - Free investment principles knowledge base with 500+ rules from Buffett, Munger, Graham and more, organized by investing scenarios.
+
 ### Container
 - [stl4go](https://github.com/chen3feng/stl4go) - Generic Container and Algorithm Library for Go
 
