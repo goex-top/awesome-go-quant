@@ -57,6 +57,7 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 ### Time Series
 
 ### Data Sources
+- [Adanos Market Sentiment API](https://api.adanos.org/docs/) - Cross-source stock sentiment API covering Reddit, X, News, and Polymarket with trending, compare, and source-level market context.
 
 ### Excel Integration
 
@@ -101,7 +102,6 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 
 ### Container
 - [stl4go](https://github.com/chen3feng/stl4go) - Generic Container and Algorithm Library for Go
-
 
 
 
