@@ -60,6 +60,8 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 - [coinpaprika-api-go-client](https://github.com/coinpaprika/coinpaprika-api-go-client) - Go client for CoinPaprika API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. Free, no API key.
 - [dexpaprika-sdk-go](https://github.com/coinpaprika/dexpaprika-sdk-go) - Go SDK for DexPaprika API. DEX data across 34 chains, 30M+ pools, 27M+ tokens. Free, no API key.
 
+- [siftingio](https://github.com/SiftingIO/sdk-go) - Official Go SDK for real-time and historical US stocks and ETFs, forex, commodities and crypto over REST and WebSocket. Typed responses, context support and cursor pagination. API key required; free and paid plans.
+
 ### Excel Integration
 
 ### Charts/Plot
