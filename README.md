@@ -59,6 +59,7 @@ A curated list of insanely awesome libraries for golang, packages and resources 
 ### Data Sources
 - [coinpaprika-api-go-client](https://github.com/coinpaprika/coinpaprika-api-go-client) - Go client for CoinPaprika API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. Free, no API key.
 - [dexpaprika-sdk-go](https://github.com/coinpaprika/dexpaprika-sdk-go) - Go SDK for DexPaprika API. DEX data across 34 chains, 30M+ pools, 27M+ tokens. Free, no API key.
+- [eulerpool-go](https://github.com/eulerpool/eulerpool-go) - Go client for the Eulerpool financial data API (equities, fundamentals, macro, crypto, FX)
 
 ### Excel Integration
 
